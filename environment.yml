@@ -9,6 +9,6 @@ dependencies:
   - pip
   - pip:
       - julia
-      - cffi_magic
+
       
   
