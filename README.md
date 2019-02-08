@@ -1,6 +1,6 @@
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Fusiakja/BinderTest/master/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Fusiakja/BinderTest/master?filepath=index.ipynb)
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
 
